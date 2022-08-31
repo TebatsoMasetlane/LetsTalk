@@ -1,0 +1,45 @@
+.carousel-button{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-button .second{
+    margin-left: 5px;
+}
+.carousel-sliders{
+    height: 450px;
+}
+.welcome{
+    margin-top: -300px;
+}
+.logo{
+  width: 50px;
+}
+.my-footer{
+    background-color: black;
+}
+.content{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 1px solid black;
+    height: 350px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+
+}
+.picture{
+    width: 700px;
+}
+.navbar-nav{
+   margin-left: 500px;
+}
+.btnSignup{
+    background-color: white;
+}
+.btnRequest{
+    background-color: rgba(0, 0, 255, 0.562);
+}
+.social{
+    display: grid;
+    justify-content: center;
+}
+

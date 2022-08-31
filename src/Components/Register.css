@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('../images/pic.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    /* background-size: 100vh; */
+
+    background-attachment: fixed;
+}
+.title{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.registration{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: rgba(10, 10, 10,0.4);
+    margin-top: 150px;
+    width: 270px;
+}
+.empty{
+    position: absolute;
+    border-radius: 30px;
+    background-color: rgba(10, 10, 10,0.4);
+    width: 220px;
+    height: 320px;
+    margin-top: -420px;
+    margin-left: 488px;
+    
+}
+.form-control{
+    text-align: center;
+}
+.registerButton{
+    margin-left: 60px;
+    width: 100px;
+    background-color: white;
+}
+.account{
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+.logButton{
+
+    background-color: white;
+    margin-left: 60px;
+    width: 100px;
+}
